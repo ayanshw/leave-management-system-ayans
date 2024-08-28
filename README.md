@@ -1,6 +1,6 @@
-#How to get Started
+# How to get Started
 
-Initialize the code with NPM using create-react-app"procedure is given below"
+Initialize the code with NPM using create-react-app(Procedure is given Below) and go to lower section to see how to initialize the java files.
 
 # Getting Started with Create React App
 
