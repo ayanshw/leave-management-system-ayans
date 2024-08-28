@@ -1,0 +1,10 @@
+
+.frontpage{
+    background-image: url(./assets/bg-main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 92.5vh;
+    max-height: 100vh;
+    width: 100%;
+    position: relative;
+}
